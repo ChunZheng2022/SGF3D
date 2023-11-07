@@ -7,7 +7,7 @@
     You can refer to the [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) to prepare the training environment.
 2. Prepare for the data.
 
-    Please prepare KITTI dataset as [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet). Then download the generated pseudo point cloud from [Baidu](https://ww) (the data is being uploaded)
+    Please prepare KITTI dataset as [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet). Then download the generated pseudo point cloud from [Baidu](https://pan.baidu.com/s/1mFw399tkT4jjwxLSECSM1w?pwd=cssj) (the data is being uploaded)
    Finally, your data should be prepared as follows:
     ```
     SGF3D
@@ -55,10 +55,6 @@
 
 3. Visualization.
 
-   You can refer to [3D-Detection-Tracking-Viewer]('https://github.com/hailanyi/3D-Detection-Tracking-Viewer') or [3d-object-vis]('https://github.com/DeclK/3d-object-vis) for visualization. Both of these visualization tools are based on [vedo]('https://github.com/marcomusy/vedo').
+   You can refer to [3D-Detection-Tracking-Viewer](https://github.com/hailanyi/3D-Detection-Tracking-Viewer) or [3d-object-vis](https://github.com/DeclK/3d-object-vis) for visualization. Both of these visualization tools are based on [vedo](https://github.com/marcomusy/vedo).
 You can also use Open3D or mayavi for visualization.
-
-
-
-
 
