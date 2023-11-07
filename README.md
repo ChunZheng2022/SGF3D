@@ -7,7 +7,7 @@
     You can refer to the [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet) to prepare the training environment.
 2. Prepare for the data.
 
-    Please prepare KITTI dataset as [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet). Then download the generated pseudo point cloud from [Baidu](https://pan.baidu.com/s/1mFw399tkT4jjwxLSECSM1w?pwd=cssj)
+    Please prepare KITTI dataset as [`OpenPCDet`](https://github.com/open-mmlab/OpenPCDet). Then download the generated pseudo point cloud from [Baidu](https://pan.baidu.com/s/1mFw399tkT4jjwxLSECSM1w?pwd=cssj).
    Finally, your data should be prepared as follows:
     ```
     SGF3D
